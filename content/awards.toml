@@ -4,24 +4,24 @@ description = "Honors and awards I have received."
 
 [[items]]
 title = "Outstanding Graduate"
-subtitle = "By Jiangxi University of Finance and Economics"
+subtitle = "Issued by Jiangxi University of Finance and Economics"
 date = "2024"
 content = "University-level honor awarded to top graduating students."
 
 [[items]]
 title = "Lixin Scholarship"
-subtitle = "By Jiangxi University of Finance and Economics"
+subtitle = "Issued by Jiangxi University of Finance and Economics"
 date = "2023"
 content = "Industry-sponsored scholarship awarded for outstanding undergraduate students."
 
 [[items]]
 title = "National Scholarship"
-subtitle = "By the Ministry of Education of China"
+subtitle = "Issued by Ministry of Education of the People's Republic of China"
 date = "2022"
 content = "Top national honor awarded to outstanding undergraduate students (top 0.17%) by the Ministry of Education of China."
 
 [[items]]
 title = "Outstanding Student Scholarship"
-subtitle = "By Jiangxi University of Finance and Economics"
+subtitle = "Issued by Jiangxi University of Finance and Economics"
 date = "2021 & 2022 & 2023"
 content = "University-level scholarship awarded to students with excellent academic performance."
