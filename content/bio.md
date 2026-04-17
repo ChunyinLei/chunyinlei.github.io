@@ -1,5 +1,3 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I am a PhD student in the Department of Statistics and Applied Probability at University of California, Santa Barbara, advised by [Prof. Annie Qu](https://qu.pstat.ucsb.edu/welcome). Before that, I earned an B.S. in Applied Statistics from Jiangxi University of Finance and Economics in 2024.
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
-
-My current research focuses on investigating the mathematical principles of natural philosophy.
+My research focuses on robust statistical methodology and machine learning for high-dimensional and longitudinal data. I am recently working on the theoretical and methodological foundations of dynamic treatment regimes, with applications to precision medicine.
