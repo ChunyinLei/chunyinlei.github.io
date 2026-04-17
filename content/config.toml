@@ -21,9 +21,9 @@ location_details = [
   "University of California Santa Barbara, Santa Barbara, California"
 ]
 google_scholar = "https://scholar.google.com"
-orcid = "https://orcid.org"
-github = "https://github.com"
-linkedin = "https://linkedin.com"
+orcid = "https://orcid.org/0009-0001-8467-0284"
+github = "https://github.com/ChunyinLei"
+linkedin = "https://www.linkedin.com/in/chunyinlei"
 
 [features]
 # Show a like button on the about page
