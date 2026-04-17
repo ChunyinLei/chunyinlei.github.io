@@ -3,8 +3,22 @@ title = "Teaching"
 description = "Courses I have taught or assisted with."
 
 [[items]]
-title = "Example Course"
+title = "Probability and Statistics (PSTAT 120A)"
 subtitle = "Teaching Assistant"
-date = "2024"
-content = "Description of the course and responsibilities. Content of this course can be found [here](https://example.com)."
-tags = ["Undergraduate", "CS"]
+date = "Mar 2025 - present"
+content = "Prepared and conducted sections with learning activities; held office hours; proctored and graded homework, quizzes, and exams; assisted in course planning; supported students' future learning journeys."
+tags = ["Undergraduate", "Statistics"]
+
+[[items]]
+title = "Principles of Data Science with R (PSTAT 10)"
+subtitle = "Teaching Assistant"
+date = "Jan 2025 - Mar 2025"
+content = "Prepared and conducted sections with learning activities; held office hours; proctored and graded homework, quizzes, and exams; assisted in course planning; supported students' future learning journeys."
+tags = ["University of California, Santa Barbara", "Undergraduate", "Statistics"]
+
+[[items]]
+title = "Sampling Technique"
+subtitle = "Teaching Assistant"
+date = "Jul 2023"
+content = "Facilitated lectures by providing on-site support to the instructor; assisted in course planning; prepared and conducted sections with learning activities; proctored and graded homework, quizzes, and exams."
+tags = ["Jiangxi University of Finance and Economics", "Undergraduate", "Statistics"]
