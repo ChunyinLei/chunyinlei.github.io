@@ -2,4 +2,3 @@ I am a PhD student in the Department of Statistics and Applied Probability at [U
 
 My research focuses on robust statistical methodology and machine learning for high-dimensional and longitudinal data. I am recently working on the theoretical and methodological foundations of dynamic treatment regimes, with applications to precision medicine.
 
-View my CV [here](https://github.com/ChunyinLei/chunyinlei.github.io/blob/main/public/Chunyin_CV.pdf).
