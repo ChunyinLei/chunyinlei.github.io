@@ -3,25 +3,25 @@ title = "Awards"
 description = "Honors and awards I have received."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2025"
-content = "Description of the award."
-
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "Outstanding Graduate"
+subtitle = "By Jiangxi University of Finance and Economics"
 date = "2024"
-content = "Description of the award."
+content = "University-level honor awarded to top graduating students."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "Lixin Scholarship"
+subtitle = "By Jiangxi University of Finance and Economics"
 date = "2023"
-content = "Description of the award."
+content = "Industry-sponsored scholarship awarded for outstanding undergraduate students."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "National Scholarship"
+subtitle = "By the Ministry of Education of China"
 date = "2022"
-content = "Description of the award."
+content = "Top national honor awarded to outstanding undergraduate students (top 0.17%) by the Ministry of Education of China."
+
+[[items]]
+title = "Outstanding Student Scholarship"
+subtitle = "By Jiangxi University of Finance and Economics"
+date = "2021 & 2022 & 2023"
+content = "University-level scholarship awarded to students with excellent academic performance."
