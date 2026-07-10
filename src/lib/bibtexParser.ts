@@ -90,7 +90,7 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
       preview,
 
       // Store original BibTeX (excluding custom fields)
-      bibtex: reconstructBibTeX(entry, ['selected', 'preview', 'description', 'abstract', 'keywords', 'code', 'url']),
+      bibtex: reconstructBibTeX(entry, ['selected', 'preview', 'description', 'abstract', 'keywords', 'code', 'url', 'doi']),
     };
 
     // Clean up undefined fields
