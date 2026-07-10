@@ -123,19 +123,25 @@ export default function Profile({ author, social, features, researchInterests }:
                 />
             </div>
 
-            {/* Name and Title */}
+
+            {/* Name, Title, and Institution */}
             <div className="text-center mb-6">
                 <h1 className="text-3xl font-serif font-bold text-primary mb-2">
                     {author.name}
                 </h1>
-                <p className="text-lg text-accent font-medium mb-1">
-                    {author.title}
-                </p>
+            
+                {author.title && (
+                    <p className="text-lg text-neutral-600 font-medium mb-1">
+                        {author.title}
+                    </p>
+                )}
+            
                 <p className="text-neutral-600 mb-2">
                     {author.institution}
                 </p>
             </div>
 
+            
             {/* Contact Links */}
             <div className="flex flex-wrap justify-center gap-3 sm:gap-4 mb-6 relative px-2">
                 {socialLinks.map((link) => {
