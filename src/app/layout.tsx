@@ -13,22 +13,66 @@ export async function generateMetadata(): Promise<Metadata> {
   const runtimeI18n = getRuntimeI18nConfig(config.i18n);
   const openGraphLocale = runtimeI18n.defaultLocale === 'zh' ? 'zh_CN' : 'en_US';
 
+  const siteUrl = 'https://chunyinlei.github.io';
+
   return {
+    metadataBase: new URL(siteUrl),
+
     title: {
       default: config.site.title,
       template: `%s | ${config.site.title}`,
     },
+
     description: config.site.description,
-    keywords: [config.author.name, 'PhD', 'Research', config.author.institution],
-    authors: [{ name: config.author.name }],
+
+    keywords: [
+      config.author.name,
+      'Chunyin Lei',
+      'Statistics',
+      'PhD',
+      'Research',
+      'Dynamic Treatment Regimes',
+      'Reinforcement Learning',
+      config.author.institution,
+      'UC Santa Barbara',
+      'UCSB',
+    ],
+
+    authors: [
+      {
+        name: config.author.name,
+        url: siteUrl,
+      },
+    ],
+
     creator: config.author.name,
     publisher: config.author.name,
+
+    verification: {
+      google: 'vUmx0ZC_Vy7_iDQPpbi6F6d-KOmm3LwgQkBRQQky9wY',
+    },
+
+    alternates: {
+      canonical: '/',
+    },
+
+    robots: {
+      index: true,
+      follow: true,
+      googleBot: {
+        index: true,
+        follow: true,
+      },
+    },
+
     icons: {
       icon: config.site.favicon,
     },
+
     openGraph: {
       type: 'website',
       locale: openGraphLocale,
+      url: siteUrl,
       title: config.site.title,
       description: config.site.description,
       siteName: `${config.author.name}'s Academic Website`,
