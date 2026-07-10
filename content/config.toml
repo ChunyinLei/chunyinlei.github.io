@@ -1,8 +1,9 @@
 [site]
 title = "Chunyin Lei"
-description = "PhD student at the University of California, Santa Barbara."
+description = "Chunyin Lei is a PhD student in Statistics and Applied Probability at the University of California, Santa Barbara. Her research focuses on dynamic treatment regimes, reinforcement learning, longitudinal data, and high-dimensional statistics."
+url = "https://chunyinlei.github.io"
 favicon = "/favicon.svg"
-last_updated = "Apri 16, 2026"
+last_updated = "July 10, 2026"
 
 [author]
 name = "Chunyin Lei"
@@ -13,8 +14,8 @@ avatar = "/bio.jpg"
 [social]
 # Contact information (leave blank or delete to hide)
 
-email = "chunyin_lei@ucsb.com"
-location = "City, Country"
+email = "chunyin_lei@ucsb.edu"
+location = "Santa Barbara, California"
 location_url = "https://maps.google.com"
 location_details = [
   "South Hall,",
