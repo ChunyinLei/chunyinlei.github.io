@@ -5,6 +5,8 @@ title = "About"
 research_interests = [
   "Reinforcement Learning",
   "Dynamic Treatment Regimes",
+  "heterogeneous data integration",
+  "digital twins",
   "High-dimensional Statistics"
 ]
 
